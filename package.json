@@ -10,6 +10,7 @@
   "author": "Icebob",
   "license": "MIT",
   "devDependencies": {
+    "@typeofweb/schema": "0.3.0",
     "ajv": "^6.10.2",
     "benchmark": "2.1.4",
     "chalk": "^3.0.0",
@@ -20,10 +21,10 @@
     "parambulator": "1.5.2",
     "validate.js": "^0.13.1",
     "validator.js": "2.0.3",
-    "validatorjs": "^3.17.1"
+    "validatorjs": "^3.17.1",
+    "yup": "^0.27.0"
   },
   "dependencies": {
-    "benchmarkify": "^2.1.2",
-    "yup": "^0.27.0"
+    "benchmarkify": "^2.1.2"
   }
 }

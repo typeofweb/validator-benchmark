@@ -10,21 +10,21 @@
   "author": "Icebob",
   "license": "MIT",
   "devDependencies": {
-    "@typeofweb/schema": "0.3.0",
-    "ajv": "^6.10.2",
+    "@typeofweb/schema": "0.4.0",
+    "ajv": "^7.0.3",
     "benchmark": "2.1.4",
-    "chalk": "^3.0.0",
-    "fastest-validator": "^1.0.0-beta1",
-    "joi": "^14.3.1",
-    "lodash": "^4.17.15",
+    "chalk": "^4.1.0",
+    "fastest-validator": "^1.9.0",
+    "joi": "^17.3.0",
+    "lodash": "^4.17.20",
     "mschema": "0.5.6",
     "parambulator": "1.5.2",
     "validate.js": "^0.13.1",
-    "validator.js": "2.0.3",
-    "validatorjs": "^3.17.1",
-    "yup": "^0.27.0"
+    "validator.js": "2.0.4",
+    "validatorjs": "^3.22.1",
+    "yup": "^0.32.8"
   },
   "dependencies": {
-    "benchmarkify": "^2.1.2"
+    "benchmarkify": "^2.1.3"
   }
 }

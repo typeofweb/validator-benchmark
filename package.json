@@ -9,22 +9,27 @@
   "keywords": [],
   "author": "Icebob",
   "license": "MIT",
-  "devDependencies": {
-    "@typeofweb/schema": "0.4.0",
-    "ajv": "^7.0.3",
+  "dependencies": {
+    "@typeofweb/schema": "0.4.2",
+    "@typeofweb/schema_main": "npm:@typeofweb/schema",
+    "ajv": "7.0.3",
     "benchmark": "2.1.4",
-    "chalk": "^4.1.0",
-    "fastest-validator": "^1.9.0",
-    "joi": "^17.3.0",
-    "lodash": "^4.17.20",
+    "benchmarkify": "2.1.3",
+    "chalk": "4.1.0",
+    "fastest-validator": "1.9.0",
+    "fp-ts": "2.9.3",
+    "io-ts": "2.2.13",
+    "joi": "17.3.0",
+    "jsonschema": "1.4.0",
+    "lodash": "4.17.20",
     "mschema": "0.5.6",
     "parambulator": "1.5.2",
-    "validate.js": "^0.13.1",
+    "superstruct": "0.13.3",
+    "ts-json-validator": "0.7.1",
+    "validate.js": "0.13.1",
     "validator.js": "2.0.4",
-    "validatorjs": "^3.22.1",
-    "yup": "^0.32.8"
-  },
-  "dependencies": {
-    "benchmarkify": "^2.1.3"
+    "validatorjs": "3.22.1",
+    "yup": "0.32.8",
+    "zod": "1.11.11"
   }
 }
